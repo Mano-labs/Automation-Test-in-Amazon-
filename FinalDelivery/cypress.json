@@ -1,0 +1,10 @@
+{
+    "viewportWidth": 1440,
+    "viewportHeight": 900,
+    "pageLoadTimeout":120000,
+    "chromeWebSecurity": false,
+    "testFiles": [
+      "**/*.spec.js"
+    ]
+  }
+  
